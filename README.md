@@ -1,6 +1,6 @@
 # Melody-
 Навчальний проект
-##Stack
+###Stack
 -html
 -css
 -js
